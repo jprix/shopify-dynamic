@@ -50,7 +50,11 @@ export default defineConfig({
     remix({
       ignoredRouteFiles: ["**/.*"],
     }),
+    
   ],
+  optimizeDeps: {
+    exclude: ['@solana/spl-type-length-value'], // Exclude the problematic package
+  },
   build: {
     assetsInlineLimit: 0,
   },
