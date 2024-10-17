@@ -1,4 +1,8 @@
-node_modules
+# Ignore node_modules directory
+node_modules/
 
-.shopify
+# Ignore Shopify CLI-related files and directories
+.shopify/
+
+# Ignore environment variables file
 .env
