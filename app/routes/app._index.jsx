@@ -121,7 +121,7 @@ export default function Index() {
     <Page>
       <TitleBar title="Remix app template">
         <button variant="primary" onClick={handleOpenDynamic}>
-          Open Dynamic
+          Open Dynamic!
         </button>
       </TitleBar>
       <BlockStack gap="500">

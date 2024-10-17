@@ -3,7 +3,7 @@
 client_id = "495e51added8eab21ed57224b4bc42e4"
 name = "Dynamify"
 handle = "dynamify-1"
-application_url = "https://sectors-eight-aurora-error.trycloudflare.com"
+application_url = "https://absent-gorgeous-pipes-charts.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://sectors-eight-aurora-error.trycloudflare.com/auth/callback",
-  "https://sectors-eight-aurora-error.trycloudflare.com/auth/shopify/callback",
-  "https://sectors-eight-aurora-error.trycloudflare.com/api/auth/callback"
+  "https://absent-gorgeous-pipes-charts.trycloudflare.com/auth/callback",
+  "https://absent-gorgeous-pipes-charts.trycloudflare.com/auth/shopify/callback",
+  "https://absent-gorgeous-pipes-charts.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
